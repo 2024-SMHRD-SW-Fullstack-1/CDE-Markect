@@ -1,0 +1,228 @@
+[33mcommit 3fb9c7d92484f8ea497533db3416b0dc37eaebeb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 90c3b70 dd830a5
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Thu Apr 25 11:33:48 2024 +0900
+
+    Merge branch 'master' of https://github.com/2024-SMHRD-SW-Fullstack-1/SeulaTeam
+    
+    n branch master
+
+[33mcommit 90c3b70ddc0e79f580d4ff85309bafae7ee8a6fd[m[33m ([m[1;31morigin/yun[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Thu Apr 25 09:11:14 2024 +0900
+
+    mini project guideline
+
+[33mcommit dd830a58d1d403d55acb155893b0ba0f60869ad1[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 24 17:53:05 2024 +0900
+
+    미니 프로젝트
+
+[33mcommit a93a3900d9ab99d83f5cfe4fab990a95896ca766[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 24 15:26:49 2024 +0900
+
+    미니프로젝트
+
+[33mcommit e066e3aa6fe735eba75ba814393f8a7a0d4e62da[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 24 15:26:19 2024 +0900
+
+    미니프로젝트
+
+[33mcommit f7df5ea15093a93e431a84003c29c9bcf15eb726[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 24 14:07:00 2024 +0900
+
+    미니프로젝트
+
+[33mcommit 171af79594eb1506a2bb617930be501243cc628c[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Tue Apr 23 17:51:48 2024 +0900
+
+    미니프로젝트
+
+[33mcommit 4812457a0dda55ab245bc646a0c64e1c637a4a35[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Tue Apr 23 17:33:26 2024 +0900
+
+    미니프로젝트
+
+[33mcommit 6bfaad10339b9082154c61bd4fb6bdaf6ea0bc4f[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Tue Apr 23 08:53:09 2024 +0900
+
+    미니프로젝트
+
+[33mcommit 45f3eb9642f891f556edd71ea737272f2d4f79f3[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Mon Apr 22 16:39:53 2024 +0900
+
+    미니 프로젝트
+
+[33mcommit 85f68643d94e98a9d013a81dacd3ac092b15e35e[m
+Merge: 28eaf0d 20b400c
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 17 17:18:05 2024 +0900
+
+    Merge pull request #8 from 2024-SMHRD-SW-Fullstack-1/Yun
+    
+    최종
+
+[33mcommit 20b400cb5526345f1782194e38fec0020a52e583[m
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Wed Apr 17 17:14:54 2024 +0900
+
+    최종
+
+[33mcommit 28eaf0d91885b8434285039907e74ec5346108c3[m
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 17 17:10:34 2024 +0900
+
+    Create README.md
+
+[33mcommit c1c653dd3f510459dedd2071454b7416a058d31a[m
+Merge: ea95a16 6812b8a
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 17 17:03:10 2024 +0900
+
+    Merge pull request #7 from 2024-SMHRD-SW-Fullstack-1/Yun
+    
+    Yun
+
+[33mcommit 6812b8a1dee1918723a2707af89bca4afb3a20ef[m
+Merge: ed30e2b ea95a16
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Wed Apr 17 17:01:00 2024 +0900
+
+    충돌수정
+
+[33mcommit ed30e2b43736e8b7cbe726fe1f1cd46b97e35e05[m
+Merge: f202da2 9f48205
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Wed Apr 17 16:56:02 2024 +0900
+
+    temp
+
+[33mcommit ea95a16e34f3449cf7ffe729a89345e347f2978f[m
+Merge: 9f48205 698362e
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 17 16:54:00 2024 +0900
+
+    Merge pull request #5 from 2024-SMHRD-SW-Fullstack-1/kim
+    
+    Kim
+
+[33mcommit 698362ea0c6407bb31b8773b11868df39b0b3b47[m
+Merge: 8346cb7 9f48205
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 16:52:40 2024 +0900
+
+    branch 팀원1
+
+[33mcommit 9f48205248771b8d2ad1f42a9d503688c8a5f6e3[m
+Merge: 88f86dc d081a02
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 17 16:49:10 2024 +0900
+
+    Merge pull request #6 from 2024-SMHRD-SW-Fullstack-1/Cha
+    
+    Cha Test
+
+[33mcommit 8346cb7ffb6a9abb517c779972386e6cd90bec29[m
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 16:43:46 2024 +0900
+
+    branch 팀원1
+
+[33mcommit d081a0256d33f062bacbb670f32c68d77924168f[m
+Author: cha <csy52937@gmail.com>
+Date:   Wed Apr 17 16:30:27 2024 +0900
+
+    Cha Test
+
+[33mcommit f202da28f7e8cf79ad2755737bd26b8c0a6690d8[m
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Wed Apr 17 16:08:39 2024 +0900
+
+    test request
+
+[33mcommit 2a41eeecc707826ad8ad837768ce69599ba3a389[m
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 16:08:39 2024 +0900
+
+    Test pullrequest
+
+[33mcommit 88f86dc3bb8b37e8c22d6c7df647fe3796eb7f22[m
+Merge: 4079025 f392d90
+Author: 윤슬아 <166685465+Seula1043@users.noreply.github.com>
+Date:   Wed Apr 17 15:31:58 2024 +0900
+
+    Merge pull request #1 from 2024-SMHRD-SW-Fullstack-1/Cha
+    
+    Cha
+
+[33mcommit 193430a6cf70677b2c1390131ae31b144e8ff01a[m
+Merge: f15d54c 4079025
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 15:29:45 2024 +0900
+
+    나만의 브렌치
+
+[33mcommit f392d903e7eb0f819057b25f9ab06e188b64fdd3[m
+Author: cha <csy52937@gmail.com>
+Date:   Wed Apr 17 15:05:44 2024 +0900
+
+    Cha commit
+
+[33mcommit f15d54c2692f5f0eb9e8efabd92c92e0d03d801b[m
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 15:05:14 2024 +0900
+
+    kim branch에 커밋하기
+
+[33mcommit 40790257e92b505f3d5cb79b7685932c8284cdac[m
+Merge: 84862b8 2302b4f
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 12:46:23 2024 +0900
+
+    팀원2 커밋
+
+[33mcommit 2302b4ff2997e0d1827e0fc15c7a0a4b538cdbb3[m
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Wed Apr 17 12:33:53 2024 +0900
+
+    슬아커밋
+
+[33mcommit 84862b80df00348faf0a59d462c7d482547fb009[m
+Merge: d554995 527296f
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 12:25:33 2024 +0900
+
+    Merge branch 'master' of https://github.com/2024-SMHRD-SW-Fullstack-1/SeulaTeam
+
+[33mcommit adfb6ffb663e849a197f279d9c013c0cee63dc21[m
+Merge: ff11d2f 527296f
+Author: cha <csy52937@gmail.com>
+Date:   Wed Apr 17 12:18:20 2024 +0900
+
+    팀원1커밋
+
+[33mcommit ff11d2f184ec397e58ee8f1eb2b5ed73f6824831[m
+Author: cha <csy52937@gmail.com>
+Date:   Wed Apr 17 11:55:15 2024 +0900
+
+    팀원 수연 커밋
+
+[33mcommit d55499598c2ddb8a737290608a5617550f12b9f1[m
+Author: kim <k26667210@gmail.com>
+Date:   Wed Apr 17 11:45:57 2024 +0900
+
+    팀원 김성용 커밋
+
+[33mcommit 527296f794d6a2db5002fa58be6599b548d4a5cd[m
+Author: Yun <yuncaeyu@gmail.com>
+Date:   Wed Apr 17 11:40:38 2024 +0900
+
+    팀장커밋
