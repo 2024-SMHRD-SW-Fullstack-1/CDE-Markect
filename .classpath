@@ -6,6 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/smhrd/Desktop/player/player/player.jar"/>
+=======
+>>>>>>> dd830a58d1d403d55acb155893b0ba0f60869ad1
 	<classpathentry kind="output" path="bin"/>
 </classpath>
